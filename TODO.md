@@ -2,7 +2,7 @@
 
 ## Python initial data analysis project
 
-1. TODO: Add data source - csv file
+1. Add data source - csv file
 2. TODO: Create python jupyter notebook file
 3. TODO: Load data from csv into pandas DataFrame
 4. TODO: Select only HT/FT reversal matches
